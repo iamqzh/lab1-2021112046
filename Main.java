@@ -22,9 +22,12 @@ public class Main {
         /*Scanner scanner = new Scanner(System.in);
         String str = scanner.nextLine();*/
 <<<<<<< HEAD
+<<<<<<< HEAD
         /
 =======
 >>>>>>> C4
+=======
+>>>>>>> B2
         String str = "1";
         File file = new File(str);
         if (!file.exists()) {
