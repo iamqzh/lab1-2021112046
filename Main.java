@@ -21,6 +21,7 @@ public class Main {
         System.out.println("输入文件名：");
         /*Scanner scanner = new Scanner(System.in);
         String str = scanner.nextLine();*/
+        /*hahaha*/
         String str = "1";
         File file = new File(str);
         if (!file.exists()) {
